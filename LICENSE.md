@@ -1,7 +1,7 @@
 CMPUT 301 Student Submission License
 Version 2.0
 
-Copyright 2026 `<student name>`
+Copyright 2026 `Evan Pearson Maraj`
 
 Unauthorized redistribution is forbidden under all circumstances. Use of this
 software without explicit authorization from the author **and** the CMPUT 301
@@ -19,7 +19,7 @@ is illegal.
 
 If any portion of this software is included in a solution submitted for
 grading at an educational institution, the submitter will be subject to
-the plagiarism sanctions at that institution.
+the plagiarism sAanctions at that institution.
 
 This software cannot be publicly posted under any circumstances, whether by
 the original student or by a third party.
