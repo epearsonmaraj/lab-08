@@ -45,4 +45,14 @@ class WizardTest {
 
         assertEquals(70, evilWizard.mana)
     }
+    @Test
+    fun train_manaLessThanFive_nothingHappens(){
+        evilWizard.mana=4
+        evilWizard.train()
+    }
+    @Test
+    fun train_manaMoreThanFive_manaDecreasesSpellPowerIncreases(){
+        evilWizard.mana=10
+        evilWizard.train()
+    }
 }
